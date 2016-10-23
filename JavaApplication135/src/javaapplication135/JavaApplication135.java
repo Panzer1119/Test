@@ -18,6 +18,7 @@ public class JavaApplication135 {
         // TODO code application logic here
         
         //asdfksjdfghnsdfgjn
+        System.out.println();
     }
     
 }
